@@ -1,0 +1,7 @@
+Compilar en linux
+g++ -o resultado foo.cpp
+Ejecutar el programa
+chmod +x ./resultado
+./resultado
+Para compilar un archivo .cpp en Linux por consola de comandos
+g++ ejemplo.cpp -o Anti_patrones_en_SCRUM_2023.exe
