@@ -1,5 +1,5 @@
 Compilar en linux
-g++ -o resultado foo.cpp
+g++ -o resultado ejemplo.cpp
 Ejecutar el programa
 chmod +x ./resultado
 ./resultado
